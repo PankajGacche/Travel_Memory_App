@@ -35,7 +35,7 @@ Data format to be added:
     npm install
     node index.js
 ```
-- Frontend
+- Frontend Run:
 ```
     cd frontend
     npm install
